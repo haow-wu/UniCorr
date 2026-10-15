@@ -1,0 +1,5 @@
+fold 0 train 69 val 12 test 21 train&test 0 val&test 0 train&val 0
+fold 1 train 69 val 12 test 21 train&test 0 val&test 0 train&val 0
+fold 2 train 70 val 12 test 20 train&test 0 val&test 0 train&val 0
+fold 3 train 70 val 12 test 20 train&test 0 val&test 0 train&val 0
+fold 4 train 70 val 12 test 20 train&test 0 val&test 0 train&val 0
